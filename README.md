@@ -7,3 +7,4 @@ Repo of finished Leet Code Problems
 - 217 - Contains Duplicate
 - 206 - Reverse Linked List
 - 238 - Product of Array Except Self
+- 242 - Valid Amagram
