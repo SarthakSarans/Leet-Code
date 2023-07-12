@@ -9,5 +9,6 @@ Repo of finished Leet Code Problems
 - 141 - Linked List Cycle
 - 217 - Contains Duplicate
 - 206 - Reverse Linked List
+- 226 - Invert Binary Tree
 - 238 - Product of Array Except Self
 - 242 - Valid Amagram
